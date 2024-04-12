@@ -3,7 +3,7 @@
 
 
 ### Link to repo:
-[https://github.com/ucsb-cs156-s24/jpa02-cgaucho](https://github.com/ucsb-cs156-s24/jpa02-GarvinYoung)
+[https://github.com/ucsb-cs156-s24/jpa02-GarvinYoung](https://github.com/ucsb-cs156-s24/jpa02-GarvinYoung)
 
 ### Deployed at:
 [https://jpa02-garvinyoung.dokku-05.cs.ucsb.edu](http://jpa02-garvinyoung.dokku-05.cs.ucsb.edu/)
